@@ -1,2 +1,4 @@
-# pindrop
-3D product landing app for Pindrop
+node_modules
+dist
+.vite
+.DS_Store
